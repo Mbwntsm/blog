@@ -1,0 +1,3 @@
+kinda like this color for background
+bg-[#323437]
+

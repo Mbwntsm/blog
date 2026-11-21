@@ -1,5 +1,4 @@
-
-import Imagie from "../src/components/Imagie"
+import {Imagie} from "../src/components/Imagie"
 import Paragraph from "../src/components/Paragraph"
 import Title from "../src/components/Title"
 
