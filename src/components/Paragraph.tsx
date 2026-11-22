@@ -6,7 +6,7 @@ type ParagraphProps = {
 
 function Paragraph({ children }: ParagraphProps) {
   return (
-    <p className="text-gray-700 leading-7">
+    <p className="text-gray-700 leading-7 text-white/50">
       {children}
     </p>
   );

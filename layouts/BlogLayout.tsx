@@ -7,9 +7,9 @@ function BlogLayout(){
       case "/amaan":
         return "bg-black";
       case "/rishabh":
-        return "bg-red-100"
+        return "bg-black"
       case "/sulabh":
-        return "bg-lime-300";
+        return "bg-black";
       default:
         return "bg-black";
     }
@@ -25,7 +25,7 @@ function BlogLayout(){
         <header className="flex items-center justify-between border-b border-gray-200 py-6">
 
           <Link to="/" className="text-2xl font-bold tracking-tight text-white/50">
-            &lt; scatzzy &gt; 
+            &lt; LORE & LARP &gt; 
           </Link>
 
           <nav className="flex items-center gap-6 text-sm font-medium text-gray-600 text-white/50">
@@ -33,24 +33,24 @@ function BlogLayout(){
               to="/"
               className="transition hover:text-blue-600"
             >
-              Home
+              HOME
             </Link>
             <Link
               to="/amaan"
               className="transition hover:text-blue-600"
             >
-              Amaan
+              ONLINE
             </Link>
             <Link
               to="/rishabh"
               className="transition hover:text-blue-600"
             >
-              rishabh
+              YAPPER
             </Link>
             <Link
               to="/sulabh"
               className="transition hover:text-blue-600"
-            > sulabh </Link>
+            > LARPER </Link>
           </nav>
 
         </header>

@@ -7,7 +7,7 @@ function Sulabh() {
 return (
   <div className="min-h-screen flex justify-center items-start">
     <div className="w-full max-w-2xl px-4">
-      <h1 className="text-3xl font-bold mb-6 text-center">
+      <h1 className="text-3xl font-bold mb-6 text-center text-white">
         Latest
       </h1>
 
