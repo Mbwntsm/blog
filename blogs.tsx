@@ -7,7 +7,7 @@ type Blogs = {
 
 export const blogs: Blogs[] = [
   {
-    title: "Who Is xQc? The Wild Journey of One of the Internet's Biggest Streamers",
+    title: "PIXELATED SEX!",
     date: "22 November 2026",
     path: "xqc",
     Author: "Amaan",
