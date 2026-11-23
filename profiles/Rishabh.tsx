@@ -22,7 +22,7 @@ return (
             <div className="flex justify-center">
               <Link
                 to={blog.path}
-                className="w-full text-center font-medium hover:underline text-4xl break-words text-white/50"
+                className="w-full text-center font-medium hover:underline text-2xl break-words text-white/50"
               >
                 {blog.title}
               </Link>
